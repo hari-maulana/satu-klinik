@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SatuKlinik1",
-    "slug": "SatuKlinik1",
+    "slug": "satu-klinik1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8b9d48ef-6f0d-4d2e-a07a-05cfb9ddf631"
+      }
+    },
+    "owner": "hary95",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8b9d48ef-6f0d-4d2e-a07a-05cfb9ddf631"
     }
   }
 }
